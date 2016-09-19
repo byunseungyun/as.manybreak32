@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>안성철거</title>
+    <link>http://as.manybreak.xyz/</link>
+    <description>안성시철거업체 공장 건물 사무실 식당 원상복구 인테리어 마루바닥 폐기물처리</description>
+    <language>ko</language>
+    <pubDate>Tue, 20 Sep 2016 03:35:31 +0900</pubDate>
+    <generator>Jekyll v3.2.1</generator>
+    <managingEditor>안성철거</managingEditor>
+    
+      <item>
+        <title>안성철거</title>
+        <link>http://as.manybreak.xyz/posts/2016/09/19/post.html</link>
+        
+        	<description>&lt;p&gt;환영합니다. 철거와 폐기물 및 운반까지 모든 서비스를 진행하는 안성철거 입니다.
+전문적인 인력들과 장비가 항시 고개님을 기다리고 있습니다.
+안성철거로 주저말고 연락주세요. 최고의 서비스를 보여드리겠습니다.&lt;/p&gt;
+</description>
+        
+        
+        
+        <category>posts/</category>
+        <guid>http://as.manybreak.xyz/posts/2016/09/19/post.html</guid>
+        <pubDate>Mon, 19 Sep 2016 10:00:00 +0900</pubDate>
+        
+      </item>
+    
+      <item>
+        <title>회사소개</title>
+        <link>http://as.manybreak.xyz/about</link>
+        <description></description>
+        <guid>http://as.manybreak.xyz/about</guid>
+        <pubDate>Tue, 20 Sep 2016 03:35:31 +0900</pubDate>
+      </item>
+      <item>
+        <title>사업안내</title>
+        <link>http://as.manybreak.xyz/business</link>
+        <description></description>
+        <guid>http://as.manybreak.xyz/business</guid>
+        <pubDate>Tue, 20 Sep 2016 03:35:31 +0900</pubDate>
+      </item>
+  </channel>
+</rss>
